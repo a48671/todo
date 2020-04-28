@@ -1,0 +1,10 @@
+.search-panel {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.search-panel input {
+    flex-grow: 1;
+    margin-right: 3px;
+}
